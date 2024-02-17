@@ -1,0 +1,13 @@
+# This is about a section in next store using print statements 
+print("Welcome to NEXT STORE")
+print("Our store today is offering a great deal on women's wear")
+print("********************************", sep="\n")
+print("------ PARTY WEAR -------")
+print("Cocktail Dress: $50 - $200","Sequin Mini Dress: $50 - $300","Lace Fit  Flare Dress: $50 - $250","Wrap Dress: $40 - $150","Off-the-Shoulder Dress: $50 - $200","Slip Dress: $30 - $150",sep="\n")
+print("Taxes applied for cost below 100$ - 5% ", end =" & ")
+print("Taxes applied for cost  below 100$ - 10%")
+
+
+
+
+
